@@ -180,6 +180,16 @@
        "certification" : "free"
      },
      {
+       "id" :  5,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Build AI Apps with ChatGPT, DALL-E and GPT-4",
+       "link" : "https://scrimba.com/learn/buildaiapps",
+       "difficulty" : "intermediate",
+       "module_number" : 3,
+       "certification" : "free"
+     },
+     {
        "id" :  6,
        "platform" : "scrimba",
        "free_course" : "yes",
@@ -188,7 +198,6 @@
        "difficulty" : "intermediate",
        "module_number" : 22,
        "certification" : "free"
-  
      },
     {
        "id" :  47,
