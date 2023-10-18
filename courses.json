@@ -78,5 +78,15 @@
        "difficulty" : "intermediate",
        "module_number" : 0,
        "certification" : "free"
+     },
+     {
+       "id" :  43,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Build a Movie Search App in React",
+       "link" : "https://scrimba.com/learn/reactmovie",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
      }
 ]
