@@ -32,3 +32,15 @@
        "certification" : "free"
      }
 ]
+[
+     {
+       "id" :  3,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" :"Build a Space Travel Website",
+       "link" : "https://scrimba.com/learn/spacetravel",
+       "difficulty" : "intermediate",
+       "module_number" : 5,
+       "certification" : "free"
+     }
+]
