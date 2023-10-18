@@ -9,4 +9,14 @@
        "module_number" : 2,
        "certification" : "free"
      }
+      {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn CSS animations",
+       "link" : "https://scrimba.com/learn/cssanimations",
+       "difficulty" : "intermediate",
+       "module_number" : 26,
+       "certification" : "free"
+     }
 ]
