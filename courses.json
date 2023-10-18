@@ -10,6 +10,16 @@
        "certification" : "free"
      },
       {
+       "id" :  36,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "From Figma to code",
+       "link" : "https://scrimba.com/learn/figmatocode",
+        "difficulty" : "intermediate",
+       "module_number" : 3,
+       "certification" : "free"
+     },
+     {
        "id" :  1,
        "platform" : "scrimba",
        "free_course" : "yes",
