@@ -8,5 +8,15 @@
        "difficulty" : "intermediate",
        "module_number" : 2,
        "certification" : "free"
+     },
+      {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn React Router 6",
+       "link" : "https://scrimba.com/learn/reactrouter6",
+       "difficulty" : "intermediate",
+       "module_number" : 2,
+       "certification" : "free"
      }
 ]
