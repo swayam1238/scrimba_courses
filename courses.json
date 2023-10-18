@@ -123,6 +123,16 @@
        "id" :  46,
        "platform" : "scrimba",
        "free_course" : "yes",
+       "course_name" : "JavaScript Deep Dive",
+       "link" : "https://scrimba.com/learn/javascript",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "free"
+     },
+     {
+       "id" :  46,
+       "platform" : "scrimba",
+       "free_course" : "yes",
        "course_name" : "Learn Practical math for frontend developers",
        "link" : "https://scrimba.com/learn/practicalmath",
        "difficulty" : "intermediate",
