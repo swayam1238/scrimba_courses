@@ -23,9 +23,10 @@
        "id" : 37,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn JavaScript",
+       "course_name" : "React Interview Questions",
        "link" : "https://scrimba.com/learn/reactinterview",
        "difficulty" : "intermediate",
+       "module_number" : 0,
        "certification" : "free"
      },
      {
@@ -35,6 +36,7 @@
        "course_name" :"Learn Markdown",
        "link" : "https://scrimba.com/learn/markdownblog",
        "difficulty" : "Beginner",
+       "module_number" : 0,          
        "certification" : "free"
      }
 ]
