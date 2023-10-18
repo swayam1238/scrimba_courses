@@ -10,43 +10,31 @@
        "certification" : "free"
      },
       {
-       "id" :  1,
+       "id" :  36,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn react",
-       "link" : "https://scrimba.com/learn/learnreact",
-       "difficulty" : "intermediate",
-       "module_number" : 4,
-       "certification" : "free"
-     },
-     {
-       "id" : 2,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn JavaScript",
-       "link" : "https://scrimba.com/learn/learnjavascript",
-       "difficulty" : "Beginner",
-       "module_number" : 8,
-       "certification" : "free"
-     },
-     {
-       "id" :  3,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" :"Build a Space Travel Website",
-       "link" : "https://scrimba.com/learn/spacetravel",
+       "course_name" : "From Figma to code",
+       "link" : "https://scrimba.com/learn/figmatocode",
        "difficulty" : "intermediate",
        "module_number" : 5,
        "certification" : "free"
      },
      {
-       "id" :  4,
+       "id" : 37,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn Bulma CSS",
-       "link" : "https://scrimba.com/learn/bulma",
+       "course_name" : "Learn JavaScript",
+       "link" : "https://scrimba.com/learn/reactinterview",
        "difficulty" : "intermediate",
-       "module_number" : 15,
+       "certification" : "free"
+     },
+     {
+       "id" :  38,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" :"Learn Markdown",
+       "link" : "https://scrimba.com/learn/markdownblog",
+       "difficulty" : "Beginner",
        "certification" : "free"
      }
 ]
