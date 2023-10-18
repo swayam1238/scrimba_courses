@@ -9,44 +9,16 @@
        "module_number" : 2,
        "certification" : "free"
      },
-      {
-       "id" :  1,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn react",
-       "link" : "https://scrimba.com/learn/learnreact",
-       "difficulty" : "intermediate",
-       "module_number" : 4,
-       "certification" : "free"
-     },
+     
      {
-       "id" : 2,
+       "id" :  5,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn JavaScript",
-       "link" : "https://scrimba.com/learn/learnjavascript",
-       "difficulty" : "Beginner",
-       "module_number" : 8,
-       "certification" : "free"
-     },
-     {
-       "id" :  3,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" :"Build a Space Travel Website",
-       "link" : "https://scrimba.com/learn/spacetravel",
+       "course_name" : "Learn Responsive Web Design",
+       "link" : "https://scrimba.com/learn/responsive",
        "difficulty" : "intermediate",
-       "module_number" : 5,
-       "certification" : "free"
-     },
-     {
-       "id" :  4,
-       "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Bulma CSS",
-       "link" : "https://scrimba.com/learn/bulma",
-       "difficulty" : "intermediate",
-       "module_number" : 15,
+       "module_number" : 6,
        "certification" : "free"
      }
+     
 ]
