@@ -179,6 +179,17 @@
        "module_number" : 2,
        "certification" : "free"
      },
+     {
+       "id" :  6,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "unittest",
+       "link" : "https://scrimba.com/learn/unittest",
+       "difficulty" : "intermediate",
+       "module_number" : 22,
+       "certification" : "free"
+  
+     },
     {
        "id" :  47,
        "platform" : "scrimba",
