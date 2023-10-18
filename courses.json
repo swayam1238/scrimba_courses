@@ -29,6 +29,16 @@
        "module_number" : 8,
        "certification" : "free"
      },
+      {
+       "id" : 2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn JavaScript",
+       "link" : "https://scrimba.com/learn/learnjavascript",
+       "difficulty" : "Beginner",
+       "module_number" : 8,
+       "certification" : "free"
+     },
      {
        "id" :  3,
        "platform" : "scrimba",
@@ -40,13 +50,13 @@
        "certification" : "free"
      },
      {
-       "id" :  4,
+       "id" :  6,
        "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Bulma CSS",
-       "link" : "https://scrimba.com/learn/bulma",
+       "free_course" : "no",
+       "course_name" : "Build Tic Tac Toe with React Hooks",
+       "link" : "https://scrimba.com/learn/reactgame",
        "difficulty" : "intermediate",
-       "module_number" : 15,
-       "certification" : "free"
+       "module_number" : 0,
+       "certification" : "paid"
      }
 ]
