@@ -190,6 +190,16 @@
        "certification" : "free"
      },
      {
+       "id" :  49,
+       "platform" : "scrimba",
+       "free_course" : "no",
+       "course_name" : "Learn Svelte",
+       "link" : "https://scrimba.com/learn/learnsvelte",
+       "difficulty" : "intermediate",
+       "module_number" : 18,
+       "certification" : "paid"
+      },
+     {
        "id" :  6,
        "platform" : "scrimba",
        "free_course" : "no",
