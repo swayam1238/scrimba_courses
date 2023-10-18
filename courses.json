@@ -180,6 +180,16 @@
        "certification" : "free"
      },
      {
+       "id" :  9,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn React",
+       "link" : "https://scrimba.com/learn/learnreact",
+       "difficulty" : "intermediate",
+       "module_number" : 4,
+       "certification" : "free"
+     },
+    {
        "id" :  5,
        "platform" : "scrimba",
        "free_course" : "yes",
