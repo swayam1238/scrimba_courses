@@ -9,6 +9,16 @@
        "module_number" : 2,
        "certification" : "free"
      },
+    {
+       "id" :  13,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" :"Learn UI Design Fundamentals",
+       "link" : "https://scrimba.com/learn/design",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
      {
        "id" : 37,
        "platform" : "scrimba",
