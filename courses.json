@@ -120,6 +120,16 @@
        "certification" : "free"
      },
      {
+       "id" :  48,
+       "platform" : "scrimba",
+       "free_course" : "no",
+       "course_name" : "Learn Alpine JS",
+       "link" : "https://scrimba.com/learn/alpinejs",
+       "difficulty" : "intermediate",
+       "module_number" : 18,
+       "certification" : "paid"
+     },
+    {
        "id" :  46,
        "platform" : "scrimba",
        "free_course" : "yes",
