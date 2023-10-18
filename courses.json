@@ -8,9 +8,9 @@
        "difficulty" : "intermediate",
        "module_number" : 2,
        "certification" : "free"
-     }
+     },
 
- {
+    {
        "id" :  12,
        "platform" : "scrimba",
        "free_course" : "yes",
@@ -20,9 +20,5 @@
        "module_number" : 0,
        "certification" : "free"
      }
-
-
-
-
 
 ]
