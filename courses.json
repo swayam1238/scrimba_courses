@@ -10,6 +10,16 @@
        "certification" : "free"
      },
      {
+       "id" : 37,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "React Interview Questions",
+       "link" : "https://scrimba.com/learn/reactinterview",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
+     {
        "id" :  38,
        "platform" : "scrimba",
        "free_course" : "yes",
