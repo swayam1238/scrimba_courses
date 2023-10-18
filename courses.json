@@ -210,6 +210,16 @@
        "certification" : "free"
      },
      {
+       "id" :  47,
+       "platform" : "scrimba",
+       "free_course" : "no",
+       "course_name" : "Build Tic Tac Toe with React Hooks",
+       "link" : "https://scrimba.com/learn/reactgame",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "paid"
+       },
+     {
        "id" :  46,
        "platform" : "scrimba",
        "free_course" : "yes",
