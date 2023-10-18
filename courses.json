@@ -40,13 +40,13 @@
        "certification" : "free"
      },
      {
-       "id" :  4,
+       "id" :  49,
        "platform" : "scrimba",
-       "free_course" : "yes",
-       "course_name" : "Learn Bulma CSS",
-       "link" : "https://scrimba.com/learn/bulma",
+       "free_course" : "no",
+       "course_name" : "Learn Svelte",
+       "link" : "https://scrimba.com/learn/learnsvelte",
        "difficulty" : "intermediate",
-       "module_number" : 15,
-       "certification" : "free"
+       "module_number" : 18,
+       "certification" : "paid"
      }
 ]
