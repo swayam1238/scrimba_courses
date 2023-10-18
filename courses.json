@@ -11,11 +11,11 @@
      },
 
     {
-       "id" :  14,
+       "id" :  13,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" :"Learn Flexbox",
-       "link" : "https://scrimba.com/learn/flexbox",
+       "course_name" :"Learn UI Design Fundamentals",
+       "link" : "https://scrimba.com/learn/design",
        "difficulty" : "intermediate",
        "module_number" : 0,
        "certification" : "free"
