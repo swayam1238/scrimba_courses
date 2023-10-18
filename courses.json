@@ -10,3 +10,15 @@
        "certification" : "free"
      }
 ]
+[
+     {
+       "id" : 2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn JavaScript",
+       "link" : "https://scrimba.com/learn/learnjavascript",
+       "difficulty" : "Beginner",
+       "module_number" : 8,
+       "certification" : "free"
+     }
+]
