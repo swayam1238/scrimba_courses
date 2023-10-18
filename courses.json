@@ -9,6 +9,16 @@
        "module_number" : 2,
        "certification" : "free"
      },
+      {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "JavaScript Interview Challenges",
+       "link" : "https://scrimba.com/learn/interviewchallenges",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
      {
        "id" :  1,
        "platform" : "scrimba",
