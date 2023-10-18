@@ -249,6 +249,16 @@
        "module_number" : 22,
        "certification" : "free"
      },
+      {
+       "id" :  5,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "fronttend Interview Tips",
+       "link" : "https://scrimba.com/learn/frontendinterview",
+       "difficulty" : "intermediate",
+       "module_number" : 22,
+       "certification" : "free"
+     },
     {
        "id" :  47,
        "platform" : "scrimba",
