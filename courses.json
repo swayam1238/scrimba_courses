@@ -8,8 +8,18 @@
        "difficulty" : "intermediate",
        "module_number" : 2,
        "certification" : "free"
-     }
+     },
       {
+       "id" :  36,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn react",
+       "link" : "https://scrimba.com/learn/figmatocode",
+       "difficulty":"intermediate",
+       "module_number":5,
+       "certfication":"paid"
+     },
+     {
        "id" :  2,
        "platform" : "scrimba",
        "free_course" : "yes",
@@ -36,6 +46,9 @@
        "course_name" : "AI Coding for Non-Coders",
        "link" : "https://scrimba.com/learn/aicoding",
        "difficulty" : "beginner",
+       "module_number":5,
+       "certification":"paid"
+     },
      {
        "id" :  3,
        "platform" : "scrimba",
@@ -75,7 +88,7 @@
        "difficulty" : "intermediate",
        "module_number" : 0,
        "certification":"paid"
-       
+     },
      {
        "id" :  43,
        "platform" : "scrimba",
@@ -105,5 +118,5 @@
        "difficulty" : "intermediate",
        "module_number" : 12,
        "certification" : "paid"
-     }
+    }
 ]
