@@ -49,4 +49,14 @@
        "module_number" : 15,
        "certification" : "free"
      }
+     {
+       "id" :  45,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Binary Search in JavaScript",
+       "link" : "https://scrimba.com/learn/algorithmsguide",
+       "difficulty" : "Advanced",
+       "module_number" : 0,
+       "certification" : "free"
+     }
 ]
