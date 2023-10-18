@@ -11,12 +11,12 @@
      },
 
     {
-       "id" :  12,
+       "id" :  13,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" :"Deploying with Netlify",
+       "course_name" :"Learn UI design fundamentals",
        "link" : "https://scrimba.com/learn/netlify",
-       "difficulty" : "beginner",
+       "difficulty" : "intermediate",
        "module_number" : 0,
        "certification" : "free"
      }
