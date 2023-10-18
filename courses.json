@@ -90,6 +90,7 @@
        "certification" : "free"
      },
      {
+
        "id" :  2,
        "platform" : "scrimba",
        "free_course" : "yes",
@@ -133,8 +134,8 @@
        "id" : 2,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn JavaScript",
-       "link" : "https://scrimba.com/learn/learnjavascript",
+       "course_name" : "Deploying with Netlify",
+       "link" : "https://scrimba.com/learn/netlify",
        "difficulty" : "Beginner",
        "module_number" : 8,
        "certification" : "free"
