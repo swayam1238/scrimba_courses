@@ -9,6 +9,16 @@
        "module_number" : 2,
        "certification" : "free"
      },
+     {
+       "id" :  5,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Responsive Web Design",
+       "link" : "https://scrimba.com/learn/responsive",
+       "difficulty" : "intermediate",
+       "module_number" : 6,
+       "certification" : "free"
+     },
     {
        "id" :  13,
        "platform" : "scrimba",
