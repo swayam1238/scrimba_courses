@@ -1,0 +1,12 @@
+[
+     {
+       "id" :  1,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Firebase",
+       "link" : "https://scrimba.com/learn/learnfirebase",
+       "difficulty" : "intermediate",
+       "module_number" : 2,
+       "certification" : "free"
+     }
+]
