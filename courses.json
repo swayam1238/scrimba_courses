@@ -90,7 +90,6 @@
        "certification" : "free"
      },
      {
-
        "id" :  2,
        "platform" : "scrimba",
        "free_course" : "yes",
@@ -134,8 +133,8 @@
        "id" : 2,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Deploying with Netlify",
-       "link" : "https://scrimba.com/learn/netlify",
+       "course_name" : "Learn JavaScript",
+       "link" : "https://scrimba.com/learn/learnjavascript",
        "difficulty" : "Beginner",
        "module_number" : 8,
        "certification" : "free"
@@ -369,5 +368,15 @@
        "difficulty" : "intermediate",
        "module_number" : 12,
        "certification" : "paid"
+    }
+      {
+       "id" :  48,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Prompt Engineering for Web Developers",
+       "link" : "https://scrimba.com/learn/promptengineering",
+       "difficulty" : "intermediate",
+       "module_number" : 3,
+       "certification" : "free"
     }
 ]
