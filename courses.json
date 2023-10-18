@@ -18,5 +18,145 @@
        "difficulty" : "intermediate",
        "module_number" : 0,
        "certification" : "free"
-     }
+     },
+     {
+       "id" :  1,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Firebase",
+       "link" : "https://scrimba.com/learn/reactrouter6",
+       "difficulty" : "intermediate",
+       "module_number" : 6,
+       "certification" : "free"
+     },
+     {
+       "id" :  8,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Java Script",
+       "link" : "https://scrimba.com/learn/learnjavascript",
+       "difficulty" : "intermediate",
+       "module_number" : 8,
+       "certification" : "free"
+     },
+     {
+       "id" :  36,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn react",
+       "link" : "https://scrimba.com/learn/figmatocode",
+       "difficulty":"intermediate",
+       "module_number":5,
+       "certfication":"paid"
+     },
+     {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn UI Design",
+       "link" : "https://scrimba.com/learn/designbootcamp",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "free"
+     },
+      {
+       "id" :  1,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn react",
+       "link" : "https://scrimba.com/learn/learnreact",
+       "difficulty" : "intermediate",
+       "module_number" : 4,
+       "certification" : "free"
+     },
+     {
+       "id" :  1,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "AI Coding for Non-Coders",
+       "link" : "https://scrimba.com/learn/aicoding",
+       "difficulty" : "beginner",
+       "module_number":5,
+       "certification":"paid"
+     },
+     {
+       "id" :  3,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "introduction to clean code",
+       "link" : "https://scrimba.com/learn/cleancode",
+       "difficulty" : "intermediate",
+       "module_number" : 25,
+       "certification" : "free"
+     },
+     {
+       "id" :  46,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Practical math for frontend developers",
+       "link" : "https://scrimba.com/learn/practicalmath",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
+     {
+       "id" :  45,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Binary Search in JavaScript",
+       "link" : "https://scrimba.com/learn/algorithmsguide",
+       "difficulty" : "Advanced",
+       "module_number" : 0,
+       "certification" : "free"
+     },
+     {
+       "id" :  44,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Tailwind CSS",
+       "link" : "https://scrimba.com/learn/tailwind",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification":"paid"
+     },
+     {
+       "id" :  43,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Build a Movie Search App in React",
+       "link" : "https://scrimba.com/learn/reactmovie",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
+      {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn CSS animations",
+       "link" : "https://scrimba.com/learn/cssanimations",
+       "difficulty" : "intermediate",
+       "module_number" : 26,
+       "certification" : "free"
+     },
+     {
+       "id" :  2,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn React Router 6",
+       "link" : "https://scrimba.com/learn/reactrouter6",
+       "difficulty" : "intermediate",
+       "module_number" : 2,
+       "certification" : "free"
+     },
+    {
+       "id" :  47,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Build Tic Tac Toe with React Hooks",
+       "link" : "https://https://scrimba.com/learn/reactgame#",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "paid"
+    }
 ]
