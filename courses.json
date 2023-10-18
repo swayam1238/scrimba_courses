@@ -8,5 +8,15 @@
        "difficulty" : "intermediate",
        "module_number" : 2,
        "certification" : "free"
+     },
+      {
+       "id" :  8,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Java Script",
+       "link" : "https://scrimba.com/learn/learnjavascript",
+       "difficulty" : "intermediate",
+       "module_number" : 8,
+       "certification" : "free"
      }
 ]
