@@ -49,4 +49,14 @@
        "module_number" : 15,
        "certification" : "free"
      }
+     {
+       "id" :  46,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Practical math for frontend developers",
+       "link" : "https://scrimba.com/learn/practicalmath",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     }
 ]
