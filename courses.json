@@ -9,6 +9,16 @@
        "module_number" : 2,
        "certification" : "free"
      },
+      {
+       "id" :  1,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Prompt Engineering for Web Developers",
+       "link" : "https://scrimba.com/learn/promptengineering",
+       "difficulty" : "intermediate",
+       "module_number" : 3,
+       "certification" : "free"
+     },
      {
        "id" :  2,
        "platform" : "scrimba",
